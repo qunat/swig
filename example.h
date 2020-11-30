@@ -1,1 +1,1 @@
-int fact(int n);
+int text();

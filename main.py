@@ -1,2 +1,3 @@
 import example
-print(_example.fact(24))
+
+print(example.text())

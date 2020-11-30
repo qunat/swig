@@ -62,7 +62,7 @@ class _SwigNonDynamicMeta(type):
 
 
 
-def fact(n):
-    return _example.fact(n)
+def text():
+    return _example.text()
 
 
